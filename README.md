@@ -29,5 +29,5 @@ Developed a computer vision and spectral analysis framework for robust material 
 
 ## Connect With Me
 
-* LinkedIn: (Add your LinkedIn URL)
+* LinkedIn: www.linkedin.com/in/abishaikankipati
 * Email: [abishai2528@gmail.com](mailto:abishai2528@gmail.com)
